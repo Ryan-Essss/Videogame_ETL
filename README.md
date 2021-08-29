@@ -1,6 +1,6 @@
 # Videogame_ETL
 
-Extraction
+#### Extraction
 We used 3 datasets from the public platform Kaggle and Data World. All of our data was based on Developers, Platforms, Publishers and Video game sales from 1999 - 2010. 
 
 The sources for our dataset are as follows:
